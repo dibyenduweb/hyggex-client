@@ -3,6 +3,7 @@ import { IoHomeOutline } from "react-icons/io5";
 import { FaGreaterThan } from "react-icons/fa";
 import { IoIosAdd } from "react-icons/io";
 import { IoArrowDownOutline } from "react-icons/io5";
+import Mathematics from "./Mathematics";
 
 const Flashcards = () => {
   return (
@@ -22,6 +23,12 @@ const Flashcards = () => {
       <h2 className="text-[#06286E] text-2xl font-bold px-10">
         Relations and Functions ( Mathematics )
       </h2>
+
+<div>
+    <Mathematics/>
+</div>
+
+
 
       <div className="flex items-center justify-between">
         <div className="flex items-center px-10">
