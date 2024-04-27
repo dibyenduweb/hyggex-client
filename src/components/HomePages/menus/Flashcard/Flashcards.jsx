@@ -66,7 +66,7 @@ const Flashcards = () => {
             <IoArrowDownOutline class="w-6 h-6 ml-2" />
           </button>
         </div>
-        <div class="flex items-center justify-between max-w-2xl border border-gray-500 rounded-lg p-2">
+        <div class="mb-24 flex items-center justify-between max-w-2xl border border-gray-500 rounded-lg p-2">
           <h3 class="text-black-500 leading-tight text-cap font-inter font-semibold text-lg md:text-xl">
             Can education flashcards be used for test preparation?
           </h3>
